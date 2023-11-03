@@ -21,8 +21,8 @@ namespace TestProject1
             Assert.True(_db.UpdateCompanyClaimsDetails(claim));
 
         }
-
-        //test claim date
+         
+        //Could do with testing claim days 
         //CompanyClaimsDetails
     }
 }
