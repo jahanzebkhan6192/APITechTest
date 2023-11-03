@@ -7,10 +7,11 @@ using System.Xml.Linq;
 namespace APITechTest.Controllers
 {
     /* 
-     *  Would suggest using an API key or API token to authenticate usage 
-     *  logging all responses 
-     *  Updating response status code 
-     *  data is returned by default in json format in dotnet core 6
+     *  Would suggest:
+     *  1 using an API key or API token to authenticate usage 
+     *  2 logging all responses 
+     *  3 Updating response status code 
+     *  4 data is returned by default in json format in dotnet core 6
      */
 
     [ApiController]
